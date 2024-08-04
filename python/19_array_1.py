@@ -1,6 +1,6 @@
 a = []
 sum = 0
-n = int(input("Enter The Value : "))
+n = int(input("Enter The Value of Range : "))
 
 for i in range(n):
     b=int(input("enter value="))
